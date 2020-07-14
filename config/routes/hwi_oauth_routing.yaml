@@ -1,5 +1,4 @@
-facebook_login:
-    path: /login/check-facebook
+
 
 hwi_oauth_redirect:
     resource: "@HWIOAuthBundle/Resources/config/routing/redirect.xml"
